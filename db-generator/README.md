@@ -11,3 +11,5 @@
 [自动生成数据库表设计（二）之Freemarker的基本使用](http://www.jianshu.com/p/e44a353e6872) 
 
 [自动生成数据库表设计（三）之制作word模版](http://www.jianshu.com/p/e0495295827f)
+
+注：此代码是参考https://github.com/jinkun2014/db-generator作者的
